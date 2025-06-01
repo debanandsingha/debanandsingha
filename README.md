@@ -2,4 +2,8 @@
 
 <!-- Headline & Tagline -->
 <h1 align="center">Hi, I'm Debanand Singha 👋</h1>
-<h3 align="center">Offensive Security Enthusiast | Full-Stack Developer | AI Hobbyist</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Offensive%20Security-Enthusiast-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Hobbyist-green?style=for-the-badge"/>
+</p>
