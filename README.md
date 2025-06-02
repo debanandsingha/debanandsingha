@@ -1,4 +1,4 @@
-<img src="assets/banner.gif" alt="Animated demo" width="100%"/>
+<img src="assets/bannernew.gif" alt="Animated demo" width="100%"/>
 
 <!-- Headline & Tagline -->
 <h1 align="center">Hi, I'm Debanand Singha 👋</h1>
